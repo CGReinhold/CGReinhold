@@ -7,3 +7,5 @@ __I'm a Full-Stack Developer working in Blumenau, Brazil.__
 - 📚 Learning also about the __Open source__ community and new technologies on my free time
 - 📫 Reach me: [linkedin.com/in/cleyson-reinhold/](https://linkedin.com/in/cleyson-reinhold/)
 - 🗺️ Wanting to discover the world when possible
+
+![ ](https://cgreinhold.dev/.netlify/functions/analytics)
