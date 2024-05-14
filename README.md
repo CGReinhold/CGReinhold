@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-__I'm a Full-Stack Developer working in Blumenau, Brazil.__
+__I'm a Full-Stack Developer working in Berlin, Germany.__
 
 - 💻 Working daily with `react`, `react-native`, `javascript`, `CSS`, `C#` and `microservices`
 - 💡 I throw some __ideas__ out in [my blog](https://cgreinhold.dev/)
